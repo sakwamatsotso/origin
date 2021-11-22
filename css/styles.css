@@ -2,3 +2,8 @@ h3 {
     color: blue;
     font-style: italic;
   }
+  h2 {
+    color: brown;
+    font-style: normal;
+    text-align: center;
+  }
