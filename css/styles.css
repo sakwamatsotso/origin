@@ -11,3 +11,9 @@ h3 {
     background-color: bisque;
     margin: auto;
   }
+  img{
+    border-radius: 50px;
+    width: 300px;
+    float: left;
+    text-align: right;
+  }
