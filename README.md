@@ -13,5 +13,5 @@ I have used HTML and CSS since they very friendly to use and do not require lice
 Since this page is purely for learning purposes, feel free to make any suggestions on areas of improvement by contacting me directly on sakwamatsotso@gmail.com
 ### License
 *On license for this code, visit GitHub's Choose a License site*
-Copyright (c) {2021 **Martin Sakwa and Annete Odingo}**
+Copyright (c) {2021 ** by Martin Sakwa and Annete Odingo}**
   
