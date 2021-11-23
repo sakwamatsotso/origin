@@ -10,7 +10,7 @@ There are no known bugs at the moment. The page is though still under developmen
 ## Technologies Used
 I have used HTML and CSS since they very friendly to use and do not require licenses.
 ## Support and contact details
-Since this page is purely for learning purposes, feel free to make any suggestions on areas of improvement by contacting me directly on sakwamatsotso@gmail.com
+Since this page is purely for learning purposes, feel free to make any suggestions on areas of improvement by contacting me directly on https://sakwamatsotso.github.io/origin/
 ### License
 *On license for this code, visit GitHub's Choose a License site*
 Copyright (c)  of 2021  by Martin Sakwa and Annete Odingo
