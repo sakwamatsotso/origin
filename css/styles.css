@@ -12,7 +12,7 @@ h3 {
     color: brown;
     font-style: normal;
     text-align: left;
-  }
+    }
   p{
     text-align: 10px;
     font-size: 25;
@@ -38,6 +38,9 @@ h3 {
 .tool_kit{
   color:red;
   border: dashed blue;
+  padding: 6px;
+  margin: 50px;
+  background-color: yellow
   }
   .key{
     background-color: yellowgreen;
@@ -50,4 +53,9 @@ h3 {
     float: left;
     margin: 10px;
   }
-  
+  .blue{
+    background-color:lightblue;
+  }
+  .green{
+    background-color: green;
+  }
